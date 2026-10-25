@@ -2,6 +2,8 @@ Secure Small Office Network (V1)
 
 A small office network designed, built, secured and then attacked in Cisco Packet Tracer, as part of my move into network engineering and my study towards the CCNA.
 
+The passwords to all Switches and Routers is: Letmein
+
 Topology
 
 The brief
